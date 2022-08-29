@@ -3,7 +3,7 @@ Oi, Eu sou o Eduardo Henrique
 - 🌱 Estudando desenvolvimento web e Java
 - 🌱 Cursando Ciência da Computação na Universidade Católica de Brasília
 - 📫 Contate-me no email: eduardomoraesg1@gmail.com
-- 💬 Pergunte-me sobre qualquer coisa
+
 ##
 
 <br>
