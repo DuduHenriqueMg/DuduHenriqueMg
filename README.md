@@ -1,10 +1,13 @@
-Oi, Eu sou o Eduardo Henrique
+## Oi, Eu sou o Eduardo Henrique
 
 - 🌱 Estudando desenvolvimento web e Java
 - 🌱 Cursando Ciência da Computação na Universidade Católica de Brasília
 - 📫 Contate-me no email: eduardomoraesg1@gmail.com
 
 ##
+<div align="center">
+  🛠️ GitHub Stats 
+</div>
 
 <br>
 <div align="center">
