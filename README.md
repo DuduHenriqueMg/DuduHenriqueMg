@@ -8,9 +8,12 @@ Oi, Eu sou o Eduardo Henrique
 
 <br>
 <div align="center">
+
   <a href="https://github.com/DuduHenriqueMg">
-  <img height="160em" widht="45%" src="https://github-readme-stats.vercel.app/api?username=DuduHenriqueMg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" widht="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuduHenriqueMg&layout=compact&langs_count=7&theme=dark"/>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuduHenriqueMg&show_icons=true&theme=dark)](https://github.com/DuduHenriqueMg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuduHenriqueMg&layout=compact&show_icons=true&theme=dark)](https://github.com/DuduHenriqueMg/github-readme-stats)
+  
 </div>
 
 <div style="display: inline_block"><br>
