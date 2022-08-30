@@ -12,8 +12,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/DuduHenriqueMg">
-  <img height="170em" width="45%" src="https://github-readme-stats.vercel.app/api?username=DuduHenriqueMg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuduHenriqueMg&theme=dark&layout=compact&langs_count=7"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=DuduHenriqueMg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuduHenriqueMg&theme=dark&layout=compact&langs_count=7"/>
 </div>
 
 <div style="display: inline_block"><br>
