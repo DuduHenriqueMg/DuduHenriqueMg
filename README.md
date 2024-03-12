@@ -6,14 +6,17 @@
 
 ##
 <div align="center">
-  🛠️ GitHub Stats 
-</div>
+  
+🛠️ GitHub Stats 
 
 <br>
-<div align="center">
+
   <a href="https://github.com/DuduHenriqueMg">
-  <img height="180em" width="44%" src="https://github-readme-stats.vercel.app/api?username=DuduHenriqueMg&include_all_commits=true&show_icons=true&count_private=true&theme=dark"/>
-  <img height="180em" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuduHenriqueMg&langs_count=12&layout=compact&theme=dark"/>
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=DuduHenriqueMg&show_icons=true&theme=dark"/>
+  </a>
+  <a href="https://github.com/DuduHenriqueMg">
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuduHenriqueMg&layout=compact&theme=dark"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
@@ -31,4 +34,4 @@
 </div>
 
 
-![Snake animation](https://github.com/DuduHenriqueMg/DuduHenriqueMg/blob/output/github-contribution-grid-snake.svg)
+
