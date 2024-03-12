@@ -12,10 +12,10 @@
 <br>
 
   <a href="https://github.com/DuduHenriqueMg">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=DuduHenriqueMg&show_icons=true&theme=dark"/>
+    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=DuduHenriqueMg&show_icons=true&theme=dark"/>
   </a>
   <a href="https://github.com/DuduHenriqueMg">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuduHenriqueMg&layout=compact&theme=dark"/>
+    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuduHenriqueMg&layout=compact&theme=dark"/>
   </a>
 </div>
 
